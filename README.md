@@ -9,6 +9,6 @@ Programming Lab Session WS 2023
 
 * [Slides]
 * Mentimeter quiz: ML basics
-* Workstation setup: [![Open In Colab](Colab notebook)](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
+* Workstation setup: [![Open In Colab](Colab notebook)]](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
 * Recap programming
 * Live ML demo
