@@ -1,5 +1,6 @@
 
-# Deep Learning E1394 - WS 2023 - Programming Lab Session WS 2023
+# Deep Learning E1394
+Programming Lab Session WS 2023
 
 ## Lab preparation
 * Moodle quiz: ML recap, Python recap, expections and current knowledge
