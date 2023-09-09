@@ -5,5 +5,7 @@ Programming Lab Session WS 2023
 ## Lab 1
 
 * Mentimeter quiz: ML basics
-* Workstation setup and recap programming: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
-* GitHub classroom test run
+* Workstation setup and recap programming: <a href="https://colab.research.google.com/drive/1N6OsqmIjAJ88FtXS0opJv5FBsNQGByYH#scrollTo=sfpM5YeRyAop">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+* GitHub Classroom test run
