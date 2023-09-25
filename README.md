@@ -16,3 +16,10 @@ Programming Lab Session WS 2023
 * Introduction to feed-forward neural networks: <a href="https://colab.research.google.com/drive/1UQsgaNwJhSruElmw_XBM6gIT-38rwBuH#scrollTo=969ERSHu-8SP">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * Q&A on problem set
+
+## Lab 3
+
+* Mentimeter quiz: Lecture recap
+* Architecture design in neural networks: <a href="https://colab.research.google.com/drive/1d42fniFcyR2V8RfWbyabxq00m_JEEupG">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Q&A on problem set
