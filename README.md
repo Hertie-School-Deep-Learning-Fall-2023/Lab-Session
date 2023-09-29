@@ -27,5 +27,5 @@ Programming Lab Session WS 2023
 ## Lab 4
 
 * Mentimeter quiz: Lecture recap
-* <a href="https://colab.research.google.com/drive/1d42fniFcyR2V8RfWbyabxq00m_JEEupG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb)https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb">Introduction to Convolutional Neural Networks
+* Introduction to Convolutional Neural Networks: <a href="https://colab.research.google.com/drive/1d42fniFcyR2V8RfWbyabxq00m_JEEupG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb)https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
