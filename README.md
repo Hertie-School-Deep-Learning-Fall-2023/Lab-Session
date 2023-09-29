@@ -23,3 +23,9 @@ Programming Lab Session WS 2023
 * Architecture design in neural networks: <a href="https://colab.research.google.com/drive/1d42fniFcyR2V8RfWbyabxq00m_JEEupG">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * Q&A on problem set
+
+## Lab 4
+
+* Mentimeter quiz: Lecture recap
+* <a href="https://colab.research.google.com/drive/1d42fniFcyR2V8RfWbyabxq00m_JEEupG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb)https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb">Introduction to Convolutional Neural Networks
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
