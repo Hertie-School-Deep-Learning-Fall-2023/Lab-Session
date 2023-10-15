@@ -29,10 +29,15 @@ Programming Lab Session WS 2023
 * Mentimeter quiz: Lecture recap
 * Introduction to Convolutional Neural Networks: <a href="https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
   
 ## Lab 5
 Online lab session: access via <a href="https://us04web.zoom.us/j/77685734825?pwd=K6qX2EFAyOzUjobYtiI0AaSjB83t7Q.1">link</a>
 
 * Mentimeter quiz: Lecture recap
 * Problem Set 1 discussion
+
+## Lab 6
+
+  * Mentimeter quiz: Lecture recap
+  * Recurrent Neural Networks <a href="https://colab.research.google.com/drive/1fToQq4y9pz5Xcs3HYuxsFjyZw2fpMmbM#scrollTo=iNQ8JeSxvdrd">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
