@@ -39,5 +39,5 @@ Online lab session: access via <a href="https://us04web.zoom.us/j/77685734825?pw
 ## Lab 6
 
   * Mentimeter quiz: Lecture recap
-  * Recurrent Neural Networks <a href="https://colab.research.google.com/drive/1fToQq4y9pz5Xcs3HYuxsFjyZw2fpMmbM#scrollTo=iNQ8JeSxvdrd">
+  * Recurrent Neural Networks: <a href="https://colab.research.google.com/drive/1fToQq4y9pz5Xcs3HYuxsFjyZw2fpMmbM#scrollTo=iNQ8JeSxvdrd">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
