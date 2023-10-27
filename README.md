@@ -45,5 +45,7 @@ Online lab session: access via <a href="https://us04web.zoom.us/j/77685734825?pw
 
 ## Lab 7
 
-* Problem Set 2 review: <a href="https://colab.research.google.com/drive/1zn6wAJ5adwJcmqFreHdmTtexV4BysN6O#scrollTo=fuZKhQK1qvc0">
-   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Discussion PS2
+* Mentimeter quiz: Lecture recap
+* Hands-on transformer session: <a href="https://drive.google.com/file/d/1eszjdkeDAPtHzdmqU3pHqAE2_cFaXgC9/view?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
