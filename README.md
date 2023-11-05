@@ -49,3 +49,7 @@ Online lab session: access via <a href="https://us04web.zoom.us/j/77685734825?pw
 * Mentimeter quiz: Lecture recap
 * Hands-on transformer session: <a href="https://drive.google.com/file/d/1eszjdkeDAPtHzdmqU3pHqAE2_cFaXgC9/view?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+## Lab 8
+
+* Mentimeter quiz: Lecture recap
+* Hands-on transformer session (continued): <a href="https://drive.google.com/file/d/1eszjdkeDAPtHzdmqU3pHqAE2_cFaXgC9/view?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
