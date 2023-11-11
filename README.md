@@ -42,7 +42,6 @@ Online lab session: access via <a href="https://us04web.zoom.us/j/77685734825?pw
   * Recurrent Neural Networks: <a href="https://colab.research.google.com/drive/1fToQq4y9pz5Xcs3HYuxsFjyZw2fpMmbM#scrollTo=iNQ8JeSxvdrd">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-
 ## Lab 7
 
 * Discussion PS2
@@ -53,3 +52,8 @@ Online lab session: access via <a href="https://us04web.zoom.us/j/77685734825?pw
 
 * Mentimeter quiz: Lecture recap
 * Hands-on transformer session (continued): <a href="https://drive.google.com/file/d/1eszjdkeDAPtHzdmqU3pHqAE2_cFaXgC9/view?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+## Lab 9
+
+* Mentimeter quiz: Lecture recap
+* Fine-tuning Generative LLMs: <a href="https://colab.research.google.com/drive/17-wfVTvQwAduMGkw1XY3fLiwf-yVuOZr#scrollTo=27Xe3Z-NzKUF"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
