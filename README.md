@@ -56,4 +56,4 @@ Online lab session: access via <a href="https://us04web.zoom.us/j/77685734825?pw
 ## Lab 9
 
 * Mentimeter quiz: Lecture recap
-* Fine-tuning Generative LLMs: <a href="https://colab.research.google.com/drive/17-wfVTvQwAduMGkw1XY3fLiwf-yVuOZr#scrollTo=27Xe3Z-NzKUF"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Fine-tuning Generative LLMs: <a href="https://colab.research.google.com/drive/1_TcojSsp7sLpF66YbuRiYgtB9WhuEu6A#scrollTo=ZzMqx4HprHce"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
