@@ -57,3 +57,7 @@ Online lab session: access via <a href="https://us04web.zoom.us/j/77685734825?pw
 
 * Mentimeter quiz: Lecture recap
 * Fine-tuning Generative LLMs: <a href="https://colab.research.google.com/drive/1_TcojSsp7sLpF66YbuRiYgtB9WhuEu6A#scrollTo=ZzMqx4HprHce"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+## Lab 10
+* Mentimeter quiz: Lecture recap
+* RNNs, LSTMs, Encoder-Decoder architectures: <a href="https://colab.research.google.com/drive/15FUQ9B8PMAZx-hRdFgSKGEbB_LA0I7p4#scrollTo=UUHbxpIymCYB"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
