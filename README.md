@@ -59,5 +59,12 @@ Online lab session: access via <a href="https://us04web.zoom.us/j/77685734825?pw
 * Fine-tuning Generative LLMs: <a href="https://colab.research.google.com/drive/1_TcojSsp7sLpF66YbuRiYgtB9WhuEu6A#scrollTo=ZzMqx4HprHce"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Lab 10
+
 * Mentimeter quiz: Lecture recap
 * RNNs, LSTMs, Encoder-Decoder architectures: <a href="https://colab.research.google.com/drive/15FUQ9B8PMAZx-hRdFgSKGEbB_LA0I7p4#scrollTo=UUHbxpIymCYB"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+## Lab 11
+
+* Mentimeter quiz: programming recap
+* Data wrangling with `pandas`: <a href="https://colab.research.google.com/drive/1A85O2DdC5g9MQAZVtDIllizZenb-EPpR#scrollTo=sf5KsbtvqD6d"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt"open in Colab"/></a>
+* Data quality and data cleaning: <a href="https://colab.research.google.com/drive/1raN_2tAka09272eS-PY46C2Q-y8UtA0j"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt"open in Colab"/></a>
