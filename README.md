@@ -66,5 +66,5 @@ Online lab session: access via <a href="https://us04web.zoom.us/j/77685734825?pw
 ## Lab 11
 
 * Mentimeter quiz: programming recap
-* Data wrangling with `pandas`: <a href="https://colab.research.google.com/drive/1A85O2DdC5g9MQAZVtDIllizZenb-EPpR#scrollTo=sf5KsbtvqD6d"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt"open in Colab"/></a>
-* Data quality and data cleaning: <a href="https://colab.research.google.com/drive/1raN_2tAka09272eS-PY46C2Q-y8UtA0j"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt"open in Colab"/></a>
+* Data wrangling with `pandas`: <a href="https://colab.research.google.com/drive/1A85O2DdC5g9MQAZVtDIllizZenb-EPpR#scrollTo=sf5KsbtvqD6d"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="open in Colab"/></a>
+* Data quality and data cleaning: <a href="https://colab.research.google.com/drive/1raN_2tAka09272eS-PY46C2Q-y8UtA0j"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="open in Colab"/></a>
